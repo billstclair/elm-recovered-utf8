@@ -17,3 +17,5 @@ or specific function(s):
 This package was formerly [spisemisu/elm-utf8](http://package.elm-lang.org/packages/spisemisu/elm-utf8/latest), but was deleted from GitHub and recovered as [billstclair/elm-recovered-utf8](http://package.elm-lang.org/packages/billstclair/elm-recovered-utf8/latest).
 
 The original code is now at https://gitlab.com/spisemisu/elm-utf8, but that can't (yet) be referenced from `elm-package.json`.
+
+Indexed at [billstclair/elm-recovered](http://package.elm-lang.org/packages/billstclair/elm-recovered/latest).
