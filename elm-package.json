@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Encode/decode between multi-byte Unicode & UTF-8 multiple single-byte encoding",
+    "repository": "https://github.com/billstclair.com/elm-recovered-utf8.git",
+    "license": "LGPL-3.0",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Recovered.UTF8"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
